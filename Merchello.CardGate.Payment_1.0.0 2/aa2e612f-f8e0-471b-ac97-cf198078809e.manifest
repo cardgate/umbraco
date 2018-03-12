@@ -1,0 +1,6 @@
+﻿{
+	javascript : [
+		'~/App_Plugins/Merchello.CardGate/merchello.cardgate.controller.js',
+		'~/App_Plugins/Merchello.CardGate/merchello.cardgate.paymentmethod.controller.js'
+	]
+}
