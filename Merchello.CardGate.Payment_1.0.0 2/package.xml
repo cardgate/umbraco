@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+	<info>
+		<package>
+			<name>Merchello.CardGate.Payment</name>
+			<version>1.0.0</version>
+      <license url="https://www.cardgate.com">MIT license</license>
+      <url>https://www.cardgate.com</url>
+			<requirements>
+				<major>7</major>
+				<minor>2</minor>
+				<patch>4</patch>
+			</requirements>
+		</package>
+        <author>
+            <name>CardGate</name>
+            <website>http://cardgate.com/</website>
+        </author>
+		<readme><![CDATA[Merchello.Plugin.Payments.CardGate
+
+Plugin Payment Gateway Provider for Merchello.]]></readme>
+	</info>
+	<DocumentTypes />
+	<Templates />
+	<Stylesheets />
+	<Macros />
+	<DictionaryItems />
+	<Languages />
+	<DataTypes />
+	<Actions />
+	<control />
+	<files><file><guid>996c22d7-4d73-479a-b0e4-aba1296c5929.html</guid><orgPath>/App_Plugins/Merchello.CardGate</orgPath><orgName>editor.html</orgName></file><file><guid>3f357745-ea2c-4bfa-afcd-0fee43067532.js</guid><orgPath>/App_Plugins/Merchello.CardGate</orgPath><orgName>merchello.cardgate.controller.js</orgName></file><file><guid>467365cd-eb9b-47a9-ba4d-69f064a1f103.js</guid><orgPath>/App_Plugins/Merchello.CardGate</orgPath><orgName>merchello.cardgate.paymentmethod.controller.js</orgName></file><file><guid>aa2e612f-f8e0-471b-ac97-cf198078809e.manifest</guid><orgPath>/App_Plugins/Merchello.CardGate</orgPath><orgName>package.manifest</orgName></file><file><guid>60d22067-aef0-477a-b4be-f69ff686e5bc.html</guid><orgPath>/App_Plugins/Merchello.CardGate</orgPath><orgName>paymentmethod.html</orgName></file><file><guid>04f0f9be-a2c8-4fcf-bc0c-625d2490aaed.html</guid><orgPath>/App_Plugins/Merchello.CardGate</orgPath><orgName>refundpayment.html</orgName></file><file><guid>1f0f0a03-016d-4ec8-b942-bdac34b30ec7.dll</guid><orgPath>/bin</orgPath><orgName>Merchello.Plugin.Payments.CardGate.dll</orgName></file><file><guid>c4c1a9a2-3096-436c-962d-815e59f71809.config</guid><orgPath>/bin</orgPath><orgName>Merchello.Plugin.Payments.CardGate.dll.config</orgName></file><file><guid>80212b6e-e8cb-46ce-894f-da2874b75e49.pdb</guid><orgPath>/bin</orgPath><orgName>Merchello.Plugin.Payments.CardGate.pdb</orgName></file></files>
+</umbPackage>
