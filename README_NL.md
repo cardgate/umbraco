@@ -1,6 +1,6 @@
 ![CardGate](https://cdn.curopayments.net/thumb/200/logos/cardgate.png)
 
-# CardGate module for Umbraco
+# CardGate module voor Umbraco
 
 [![Total Downloads](https://img.shields.io/packagist/dt/cardgate/umbraco.svg)](https://packagist.org/packages/cardgate/umbraco)
 [![Latest Version](https://img.shields.io/packagist/v/cardgate/umbraco.svg)](https://github.com/cardgate/umbraco/releases)
