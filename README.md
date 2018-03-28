@@ -8,7 +8,7 @@
 
 ## Support
 
-This plugin supports Umbraco
+This plugin supports Umbraco.
 
 ## Preparation
 
