@@ -12,14 +12,14 @@ This plugin supports Umbraco
 
 ## Preparation
 
-The usage of this module requires that you have obtained CardGate RESTful API credentials.
+The usage of this module requires that you have obtained CardGate RESTful API credentials.  
 Please visit [My Cardgate](https://my.cardgate.com/) and retrieve your RESTful API username and password, or contact your accountmanager.
 
 ## Installation
 
-1. Install the **package.xml** like any other plug-in.
+1. Install the **package.xml** like any other module.
 
-2. All payment methods can be configured via the plug-in once you have installed it..
+2. All payment methods can be configured via the module once you have installed it..
 
 ## Requirements
 

@@ -18,7 +18,7 @@ RESTful API gebruikersnaam en wachtwoord op, of neem contact op met je accountma
 
 ## Installatie
 
-1. Installeer de **package.xml** zols iedere andere Umbraco module
+1. Installeer de **package.xml** zols iedere andere Umbraco module.
 
 2. Alle betaalmethoden kunnen geconfigureerd worden via de module zodra hij geïntalleerd is.
 
