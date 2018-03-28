@@ -1,6 +1,6 @@
 ![CardGate](https://cdn.curopayments.net/thumb/200/logos/cardgate.png)
 
-# CardGate module for Umbraco
+# CardGate module voor Umbraco
 
 [![Total Downloads](https://img.shields.io/packagist/dt/cardgate/umbraco.svg)](https://packagist.org/packages/cardgate/umbraco)
 [![Latest Version](https://img.shields.io/packagist/v/cardgate/umbraco.svg)](https://github.com/cardgate/umbraco/releases)
@@ -8,7 +8,7 @@
 
 ## Support
 
-Deze module is geschikt voor Umbraco .
+Deze module is geschikt voor Umbraco.
 
 ## Voorbereiding
 
@@ -18,9 +18,9 @@ RESTful API gebruikersnaam en wachtwoord op, of neem contact op met je accountma
 
 ## Installatie
 
-1. Installeer de **package.xml** zols iedere andere Umbraco module
+1. Installeer de **package.xml** zols iedere andere Umbraco module.
 
-2. Alle betaalmethoden kunnen geconfigureerd worden via de module zodra hij geïntalleerd is.
+2. Alle betaalmethoden kunnen geconfigureerd worden via de module zodra hij geïnstalleerd is.
 
 
 ## Vereisten
