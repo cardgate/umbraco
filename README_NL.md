@@ -8,7 +8,7 @@
 
 ## Support
 
-Deze module is geschikt voor Umbraco .
+Deze module is geschikt voor Umbraco.
 
 ## Voorbereiding
 
@@ -20,7 +20,7 @@ RESTful API gebruikersnaam en wachtwoord op, of neem contact op met je accountma
 
 1. Installeer de **package.xml** zols iedere andere Umbraco module.
 
-2. Alle betaalmethoden kunnen geconfigureerd worden via de module zodra hij geïntalleerd is.
+2. Alle betaalmethoden kunnen geconfigureerd worden via de module zodra hij geïnstalleerd is.
 
 
 ## Vereisten

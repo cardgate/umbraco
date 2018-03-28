@@ -19,7 +19,7 @@ Please visit [My Cardgate](https://my.cardgate.com/) and retrieve your RESTful A
 
 1. Install the **package.xml** like any other module.
 
-2. All payment methods can be configured via the module once you have installed it..
+2. All payment methods can be configured via the module once you have installed it.
 
 ## Requirements
 
