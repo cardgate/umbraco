@@ -2,10 +2,6 @@
 
 # CardGate module voor Umbraco
 
-[![Total Downloads](https://img.shields.io/packagist/dt/cardgate/umbraco.svg)](https://packagist.org/packages/cardgate/umbraco)
-[![Latest Version](https://img.shields.io/packagist/v/cardgate/umbraco.svg)](https://github.com/cardgate/umbraco/releases)
-[![Build Status](https://travis-ci.org/cardgate/umbraco.svg?branch=master)](https://travis-ci.org/cardgate/umbraco)
-
 ## Support
 
 Deze module is geschikt voor Umbraco.
