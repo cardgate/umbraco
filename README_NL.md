@@ -9,8 +9,8 @@ Deze module is geschikt voor Umbraco.
 ## Voorbereiding
 
 Voor het gebruik van deze module zijn CardGate RESTful gegevens nodig.  
-Bezoek hiervoor [Mijn CardGate](https://my.cardgate.com/) en haal daar je  
-RESTful API gebruikersnaam en wachtwoord op, of neem contact op met je accountmanager.  
+Bezoek hiervoor [Mijn CardGate](https://my.cardgate.com/) en haal daar je gegevens op,  
+of neem contact op met je accountmanager.  
 
 ## Installatie
 
